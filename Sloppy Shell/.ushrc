@@ -1,0 +1,9 @@
+HISTCOUNT=50
+HISTSIZE=100
+
+alias ls='ls --color'
+
+
+PATH=$PATH/home/eclipse
+
+alias test=echo hello world
